@@ -5,6 +5,14 @@ public class A {
 		String a = "Welcome to java class";
 		
 		String substring = a.substring(0,7);
+
+		String substring = a.substring(0,7);
+
+		String substring = a.substring(0,7);
+
+		String substring = a.substring(0,7);
+
+		String substring = a.substring(0,7);
 		
 		
 	
